@@ -30,7 +30,13 @@
 }
 
 body {
-	background: #666;
+	background: #888;
+}
+
+h2 {
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid black;
 }
 h1 {
 	color: red;
